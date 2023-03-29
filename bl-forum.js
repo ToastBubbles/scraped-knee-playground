@@ -1,6 +1,9 @@
 const http = require("http");
 const https = require("https");
 var HTMLParser = require("node-html-parser");
+const fs = require("fs");
+
+let cachedInventory = { ids: [] };
 
 async function getAvail() {
   return new Promise((resolve, reject) => {
@@ -27,13 +30,14 @@ async function getAvail() {
               //<A HREF="/message.asp?ID=1402460"><B>Overview of all Sales in my Store</B>
               var root = HTMLParser.parse(data);
               let arrOfNodes = root.querySelectorAll("a");
-              //   console.log(data);
-              //   console.log(data);
               for (let elem of arrOfNodes) {
                 let b = elem.querySelector(":scope > b");
                 if (b != null) {
                   let id = elem.getAttribute("HREF").slice(16);
-                  console.log(id, b.textContent);
+                  if (!checkId(id)) {
+                    sendEmail({ id, text: b.textContent });
+                  }
+                  //   console.log(id, b.textContent);
                 }
                 // console.log(elem);
                 // if (elem.textContent.toLowerCase().includes("30")) {
@@ -58,4 +62,53 @@ async function getAvail() {
     }
   });
 }
+
+function sendEmail(content) {
+  console.log(content.text);
+}
+
+function checkId(id) {
+  if (cachedInventory.ids.includes(id)) {
+    return true;
+  } else {
+    cachedInventory.ids.push(id);
+    save();
+    return false;
+  }
+}
+
+function checkForSave() {
+  try {
+    return fs.existsSync("save.json");
+  } catch (e) {
+    console.log(e);
+  }
+}
+function load() {
+  if (checkForSave()) {
+    try {
+      let rawdata = fs.readFileSync("save.json");
+      // console.log(rawdata);
+      let localInfo = JSON.parse(rawdata);
+      cachedInventory = localInfo;
+    } catch (e) {
+      console.log(e);
+    } finally {
+      getAvail();
+    }
+  } else {
+    save().then(() => getAvail());
+  }
+}
+async function save() {
+  let data = JSON.stringify(cachedInventory);
+  try {
+    await fs.writeFileSync("save.json", data);
+  } catch (e) {
+    console.log(e);
+  }
+}
+
+load();
+
 getAvail();
