@@ -5,6 +5,8 @@ const fs = require("fs");
 
 let cachedInventory = { ids: [] };
 
+const keywords = ["3001"];
+
 async function getAvail() {
   return new Promise((resolve, reject) => {
     try {
@@ -35,9 +37,12 @@ async function getAvail() {
                 if (b != null) {
                   let id = elem.getAttribute("HREF").slice(16);
                   if (!checkId(id)) {
-                    sendEmail({ id, text: b.textContent });
+                    for (let keyword of keywords) {
+                      if (b.textContent.toLowerCase().includes(keyword)) {
+                        sendEmail({ id, text: b.textContent });
+                      }
+                    }
                   }
-                  //   console.log(id, b.textContent);
                 }
                 // console.log(elem);
                 // if (elem.textContent.toLowerCase().includes("30")) {
