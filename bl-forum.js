@@ -93,7 +93,6 @@ function load() {
   if (checkForSave()) {
     try {
       let rawdata = fs.readFileSync("save.json");
-      // console.log(rawdata);
       let localInfo = JSON.parse(rawdata);
       cachedInventory = localInfo;
     } catch (e) {
@@ -115,5 +114,4 @@ async function save() {
 }
 
 load();
-
 getAvail();
