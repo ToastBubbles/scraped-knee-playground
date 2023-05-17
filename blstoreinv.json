@@ -1,0 +1,2423 @@
+{
+  "result": {
+    "groups": [
+      {
+        "items": [
+          {
+            "itemName": "Brick, Braille 2 x 4 with 1 Stud (dots-5 \u2810)",
+            "invDescription": "Unused but has scratches!",
+            "hasExtended": 0,
+            "invID": 337657902,
+            "invQty": 18,
+            "bulkQty": 1,
+            "superlotID": 0,
+            "superlotQty": 1,
+            "salePercent": 15,
+            "itemType": "P",
+            "invNew": "Used",
+            "invComplete": "",
+            "colorID": 3,
+            "colorName": "Yellow",
+            "itemNo": "65559",
+            "itemSeq": 0,
+            "itemID": 223276,
+            "itemStatus": "A",
+            "smallImg": "//img.bricklink.com/ItemImage/PT/3/65559.t1.png",
+            "largeImg": "//img.bricklink.com/ItemImage/PN/3/65559.png",
+            "newThumb1Img": "//img.bricklink.com/ItemImage/PT/3/65559.t1.png",
+            "newThumb2Img": "//img.bricklink.com/ItemImage/PT/3/65559.t1.png",
+            "newItemImg": "//img.bricklink.com/ItemImage/PN/3/65559.png",
+            "nativePrice": "PLN 12.529",
+            "salePrice": "US $3.0288",
+            "invPrice": "US $3.5633",
+            "rawConvertedPrice": 3.0288,
+            "categoryString": "1253",
+            "invDate": "Feb 27, 2023"
+          },
+          {
+            "itemName": "Brick, Braille 2 x 4 with 2 Studs with Black Capital Letter C / Number 3 Pattern (dots-14 \u2809)",
+            "invDescription": "WITHOUT ANY PRINT!!! VERY UNIQUE!  Has minor scratches.",
+            "hasExtended": 0,
+            "invID": 337658054,
+            "invQty": 1,
+            "bulkQty": 1,
+            "superlotID": 0,
+            "superlotQty": 1,
+            "salePercent": 15,
+            "itemType": "P",
+            "invNew": "Used",
+            "invComplete": "",
+            "colorID": 153,
+            "colorName": "Dark Azure",
+            "itemNo": "60191pb01",
+            "itemSeq": 0,
+            "itemID": 223282,
+            "itemStatus": "A",
+            "smallImg": "//img.bricklink.com/ItemImage/PT/153/60191pb01.t1.png",
+            "largeImg": "//img.bricklink.com/ItemImage/PN/153/60191pb01.png",
+            "newThumb1Img": "//img.bricklink.com/ItemImage/PT/153/60191pb01.t1.png",
+            "newThumb2Img": "//img.bricklink.com/ItemImage/PT/153/60191pb01.t1.png",
+            "newItemImg": "//img.bricklink.com/ItemImage/PN/153/60191pb01.png",
+            "nativePrice": "PLN 19.584",
+            "salePrice": "US $4.7343",
+            "invPrice": "US $5.5698",
+            "rawConvertedPrice": 4.7343,
+            "categoryString": "1253",
+            "invDate": "Feb 27, 2023"
+          },
+          {
+            "itemName": "Brick, Braille 2 x 4 with 2 Studs with Black Capital Letter E / Number 5 Pattern (dots-15 \u2811)",
+            "invDescription": "WITHOUT ANY PRINT!!! VERY UNIQUE!  Has minor scratches.",
+            "hasExtended": 0,
+            "invID": 337658277,
+            "invQty": 7,
+            "bulkQty": 1,
+            "superlotID": 0,
+            "superlotQty": 1,
+            "salePercent": 15,
+            "itemType": "P",
+            "invNew": "Used",
+            "invComplete": "",
+            "colorID": 3,
+            "colorName": "Yellow",
+            "itemNo": "60207pb01",
+            "itemSeq": 0,
+            "itemID": 223284,
+            "itemStatus": "A",
+            "smallImg": "//img.bricklink.com/ItemImage/PT/3/60207pb01.t1.png",
+            "largeImg": "//img.bricklink.com/ItemImage/PN/3/60207pb01.png",
+            "newThumb1Img": "//img.bricklink.com/ItemImage/PT/3/60207pb01.t1.png",
+            "newThumb2Img": "//img.bricklink.com/ItemImage/PT/3/60207pb01.t1.png",
+            "newItemImg": "//img.bricklink.com/ItemImage/PN/3/60207pb01.png",
+            "nativePrice": "PLN 13.3195",
+            "salePrice": "US $3.2199",
+            "invPrice": "US $3.7881",
+            "rawConvertedPrice": 3.2199,
+            "categoryString": "1253",
+            "invDate": "Feb 27, 2023"
+          },
+          {
+            "itemName": "Brick, Braille 2 x 4 with 2 Studs with Black Division Sign (\u00F7) Pattern (dots-34 \u280C)",
+            "invDescription": "WITHOUT ANY PRINT!!! VERY UNIQUE!  Has minor scratches.",
+            "hasExtended": 0,
+            "invID": 340729013,
+            "invQty": 1,
+            "bulkQty": 1,
+            "superlotID": 0,
+            "superlotQty": 1,
+            "salePercent": 15,
+            "itemType": "P",
+            "invNew": "Used",
+            "invComplete": "",
+            "colorID": 1,
+            "colorName": "White",
+            "itemNo": "60237pb01",
+            "itemSeq": 0,
+            "itemID": 223312,
+            "itemStatus": "A",
+            "smallImg": "//img.bricklink.com/ItemImage/PT/1/60237pb01.t1.png",
+            "largeImg": "//img.bricklink.com/ItemImage/PN/1/60237pb01.png",
+            "newThumb1Img": "//img.bricklink.com/ItemImage/PT/1/60237pb01.t1.png",
+            "newThumb2Img": "//img.bricklink.com/ItemImage/PT/1/60237pb01.t1.png",
+            "newItemImg": "//img.bricklink.com/ItemImage/PN/1/60237pb01.png",
+            "nativePrice": "PLN 19.584",
+            "salePrice": "US $4.7343",
+            "invPrice": "US $5.5698",
+            "rawConvertedPrice": 4.7343,
+            "categoryString": "1253",
+            "invDate": "Mar 18, 2023"
+          },
+          {
+            "itemName": "Brick, Braille 2 x 4 with 3 Studs with Black Capital Letter D / Number 4 Pattern (dots-145 \u2819)",
+            "invDescription": "WITHOUT ANY PRINT!!! VERY UNIQUE!  Has minor scratches.",
+            "hasExtended": 0,
+            "invID": 340729216,
+            "invQty": 1,
+            "bulkQty": 1,
+            "superlotID": 0,
+            "superlotQty": 1,
+            "salePercent": 15,
+            "itemType": "P",
+            "invNew": "Used",
+            "invComplete": "",
+            "colorID": 34,
+            "colorName": "Lime",
+            "itemNo": "60192pb01",
+            "itemSeq": 0,
+            "itemID": 223283,
+            "itemStatus": "A",
+            "smallImg": "//img.bricklink.com/ItemImage/PT/34/60192pb01.t1.png",
+            "largeImg": "//img.bricklink.com/ItemImage/PN/34/60192pb01.png",
+            "newThumb1Img": "//img.bricklink.com/ItemImage/PT/34/60192pb01.t1.png",
+            "newThumb2Img": "//img.bricklink.com/ItemImage/PT/34/60192pb01.t1.png",
+            "newItemImg": "//img.bricklink.com/ItemImage/PN/34/60192pb01.png",
+            "nativePrice": "PLN 11.747",
+            "salePrice": "US $2.8398",
+            "invPrice": "US $3.3409",
+            "rawConvertedPrice": 2.8398,
+            "categoryString": "1253",
+            "invDate": "Mar 18, 2023"
+          },
+          {
+            "itemName": "Brick, Braille 2 x 4 with 3 Studs with Black Capital Letter H / Number 8 Pattern (dots-125 \u2813)",
+            "invDescription": "WITHOUT ANY PRINT!!! VERY UNIQUE!  Has minor scratches.",
+            "hasExtended": 0,
+            "invID": 337658852,
+            "invQty": 17,
+            "bulkQty": 1,
+            "superlotID": 0,
+            "superlotQty": 1,
+            "salePercent": 15,
+            "itemType": "P",
+            "invNew": "Used",
+            "invComplete": "",
+            "colorID": 34,
+            "colorName": "Lime",
+            "itemNo": "60222pb01",
+            "itemSeq": 0,
+            "itemID": 223287,
+            "itemStatus": "A",
+            "smallImg": "//img.bricklink.com/ItemImage/PT/34/60222pb01.t1.png",
+            "largeImg": "//img.bricklink.com/ItemImage/PN/34/60222pb01.png",
+            "newThumb1Img": "//img.bricklink.com/ItemImage/PT/34/60222pb01.t1.png",
+            "newThumb2Img": "//img.bricklink.com/ItemImage/PT/34/60222pb01.t1.png",
+            "newItemImg": "//img.bricklink.com/ItemImage/PN/34/60222pb01.png",
+            "nativePrice": "PLN 11.747",
+            "salePrice": "US $2.8398",
+            "invPrice": "US $3.3409",
+            "rawConvertedPrice": 2.8398,
+            "categoryString": "1253",
+            "invDate": "Feb 27, 2023"
+          },
+          {
+            "itemName": "Brick, Braille 2 x 4 with 3 Studs with Black Capital Letter O Pattern (dots-135 \u2815)",
+            "invDescription": "WITHOUT ANY PRINT!!! VERY UNIQUE!  Has minor scratches.",
+            "hasExtended": 0,
+            "invID": 340730096,
+            "invQty": 4,
+            "bulkQty": 1,
+            "superlotID": 0,
+            "superlotQty": 1,
+            "salePercent": 15,
+            "itemType": "P",
+            "invNew": "Used",
+            "invComplete": "",
+            "colorID": 5,
+            "colorName": "Red",
+            "itemNo": "60229pb01",
+            "itemSeq": 0,
+            "itemID": 223294,
+            "itemStatus": "A",
+            "smallImg": "//img.bricklink.com/ItemImage/PT/5/60229pb01.t1.png",
+            "largeImg": "//img.bricklink.com/ItemImage/PN/5/60229pb01.png",
+            "newThumb1Img": "//img.bricklink.com/ItemImage/PT/5/60229pb01.t1.png",
+            "newThumb2Img": "//img.bricklink.com/ItemImage/PT/5/60229pb01.t1.png",
+            "newItemImg": "//img.bricklink.com/ItemImage/PN/5/60229pb01.png",
+            "nativePrice": "PLN 11.747",
+            "salePrice": "US $2.8398",
+            "invPrice": "US $3.3409",
+            "rawConvertedPrice": 2.8398,
+            "categoryString": "1253",
+            "invDate": "Mar 18, 2023"
+          },
+          {
+            "itemName": "Brick, Braille 2 x 4 with 3 Studs with Black Capital Letter U Pattern (dots-136 \u2825)",
+            "invDescription": "WITHOUT ANY PRINT!!! VERY UNIQUE!  Has minor scratches.",
+            "hasExtended": 0,
+            "invID": 337659365,
+            "invQty": 6,
+            "bulkQty": 1,
+            "superlotID": 0,
+            "superlotQty": 1,
+            "salePercent": 15,
+            "itemType": "P",
+            "invNew": "Used",
+            "invComplete": "",
+            "colorID": 34,
+            "colorName": "Lime",
+            "itemNo": "60238pb01",
+            "itemSeq": 0,
+            "itemID": 223300,
+            "itemStatus": "A",
+            "smallImg": "//img.bricklink.com/ItemImage/PT/34/60238pb01.t1.png",
+            "largeImg": "//img.bricklink.com/ItemImage/PN/34/60238pb01.png",
+            "newThumb1Img": "//img.bricklink.com/ItemImage/PT/34/60238pb01.t1.png",
+            "newThumb2Img": "//img.bricklink.com/ItemImage/PT/34/60238pb01.t1.png",
+            "newItemImg": "//img.bricklink.com/ItemImage/PN/34/60238pb01.png",
+            "nativePrice": "PLN 13.3195",
+            "salePrice": "US $3.2199",
+            "invPrice": "US $3.7881",
+            "rawConvertedPrice": 3.2199,
+            "categoryString": "1253",
+            "invDate": "Feb 27, 2023"
+          },
+          {
+            "itemName": "Brick, Braille 2 x 4 with 3 Studs with Black Plus Sign (+) Pattern (dots-235 \u2816)",
+            "invDescription": "WITHOUT ANY PRINT!!! VERY UNIQUE!  Has minor scratches.",
+            "hasExtended": 0,
+            "invID": 340729032,
+            "invQty": 2,
+            "bulkQty": 1,
+            "superlotID": 0,
+            "superlotQty": 1,
+            "salePercent": 15,
+            "itemType": "P",
+            "invNew": "Used",
+            "invComplete": "",
+            "colorID": 1,
+            "colorName": "White",
+            "itemNo": "60235pb01",
+            "itemSeq": 0,
+            "itemID": 223314,
+            "itemStatus": "A",
+            "smallImg": "//img.bricklink.com/ItemImage/PT/1/60235pb01.t1.png",
+            "largeImg": "//img.bricklink.com/ItemImage/PN/1/60235pb01.png",
+            "newThumb1Img": "//img.bricklink.com/ItemImage/PT/1/60235pb01.t1.png",
+            "newThumb2Img": "//img.bricklink.com/ItemImage/PT/1/60235pb01.t1.png",
+            "newItemImg": "//img.bricklink.com/ItemImage/PN/1/60235pb01.png",
+            "nativePrice": "PLN 19.584",
+            "salePrice": "US $4.7343",
+            "invPrice": "US $5.5698",
+            "rawConvertedPrice": 4.7343,
+            "categoryString": "1253",
+            "invDate": "Mar 18, 2023"
+          },
+          {
+            "itemName": "Brick, Braille 2 x 4 with 4 Studs with Black Capital Letter G / Number 7 Pattern (dots-1245 \u281B)",
+            "invDescription": "WITHOUT ANY PRINT!!! VERY UNIQUE!  Has minor scratches.",
+            "hasExtended": 0,
+            "invID": 340729128,
+            "invQty": 1,
+            "bulkQty": 1,
+            "superlotID": 0,
+            "superlotQty": 1,
+            "salePercent": 15,
+            "itemType": "P",
+            "invNew": "Used",
+            "invComplete": "",
+            "colorID": 153,
+            "colorName": "Dark Azure",
+            "itemNo": "60221pb01",
+            "itemSeq": 0,
+            "itemID": 223286,
+            "itemStatus": "A",
+            "smallImg": "//img.bricklink.com/ItemImage/PT/153/60221pb01.t1.png",
+            "largeImg": "//img.bricklink.com/ItemImage/PN/153/60221pb01.png",
+            "newThumb1Img": "//img.bricklink.com/ItemImage/PT/153/60221pb01.t1.png",
+            "newThumb2Img": "//img.bricklink.com/ItemImage/PT/153/60221pb01.t1.png",
+            "newItemImg": "//img.bricklink.com/ItemImage/PN/153/60221pb01.png",
+            "nativePrice": "PLN 11.747",
+            "salePrice": "US $2.8398",
+            "invPrice": "US $3.3409",
+            "rawConvertedPrice": 2.8398,
+            "categoryString": "1253",
+            "invDate": "Mar 18, 2023"
+          },
+          {
+            "itemName": "Brick, Braille 2 x 4 with 4 Studs with Black Equal Sign (=) Pattern (dots-2356 \u2836)",
+            "invDescription": "Has minor scratches.",
+            "hasExtended": 0,
+            "invID": 337659722,
+            "invQty": 2,
+            "bulkQty": 1,
+            "superlotID": 0,
+            "superlotQty": 1,
+            "salePercent": 15,
+            "itemType": "P",
+            "invNew": "Used",
+            "invComplete": "",
+            "colorID": 1,
+            "colorName": "White",
+            "itemNo": "60294pb01",
+            "itemSeq": 0,
+            "itemID": 223309,
+            "itemStatus": "A",
+            "smallImg": "//img.bricklink.com/ItemImage/PT/1/60294pb01.t1.png",
+            "largeImg": "//img.bricklink.com/ItemImage/PN/1/60294pb01.png",
+            "newThumb1Img": "//img.bricklink.com/ItemImage/PT/1/60294pb01.t1.png",
+            "newThumb2Img": "//img.bricklink.com/ItemImage/PT/1/60294pb01.t1.png",
+            "newItemImg": "//img.bricklink.com/ItemImage/PN/1/60294pb01.png",
+            "nativePrice": "PLN 13.3195",
+            "salePrice": "US $3.2199",
+            "invPrice": "US $3.7881",
+            "rawConvertedPrice": 3.2199,
+            "categoryString": "1253",
+            "invDate": "Feb 27, 2023"
+          },
+          {
+            "itemName": "Brick, Braille 2 x 4 with 4 Studs with Black Equal Sign (=) Pattern (dots-2356 \u2836)",
+            "invDescription": "WITHOUT ANY PRINT!!! VERY UNIQUE!  Has minor scratches.",
+            "hasExtended": 0,
+            "invID": 337659421,
+            "invQty": 3,
+            "bulkQty": 1,
+            "superlotID": 0,
+            "superlotQty": 1,
+            "salePercent": 15,
+            "itemType": "P",
+            "invNew": "Used",
+            "invComplete": "",
+            "colorID": 1,
+            "colorName": "White",
+            "itemNo": "60294pb01",
+            "itemSeq": 0,
+            "itemID": 223309,
+            "itemStatus": "A",
+            "smallImg": "//img.bricklink.com/ItemImage/PT/1/60294pb01.t1.png",
+            "largeImg": "//img.bricklink.com/ItemImage/PN/1/60294pb01.png",
+            "newThumb1Img": "//img.bricklink.com/ItemImage/PT/1/60294pb01.t1.png",
+            "newThumb2Img": "//img.bricklink.com/ItemImage/PT/1/60294pb01.t1.png",
+            "newItemImg": "//img.bricklink.com/ItemImage/PN/1/60294pb01.png",
+            "nativePrice": "PLN 15.6655",
+            "salePrice": "US $3.787",
+            "invPrice": "US $4.4553",
+            "rawConvertedPrice": 3.787,
+            "categoryString": "1253",
+            "invDate": "Feb 27, 2023"
+          },
+          {
+            "itemName": "Brick, Braille 2 x 4 with 4 Studs with Black Number Sign / Hash / Pound Sign Pattern (dots-3456 \u283C)",
+            "invDescription": "Has minor scratches.",
+            "hasExtended": 0,
+            "invID": 337659400,
+            "invQty": 2,
+            "bulkQty": 1,
+            "superlotID": 0,
+            "superlotQty": 1,
+            "salePercent": 15,
+            "itemType": "P",
+            "invNew": "Used",
+            "invComplete": "",
+            "colorID": 1,
+            "colorName": "White",
+            "itemNo": "60295pb01",
+            "itemSeq": 0,
+            "itemID": 223310,
+            "itemStatus": "A",
+            "smallImg": "//img.bricklink.com/ItemImage/PT/1/60295pb01.t1.png",
+            "largeImg": "//img.bricklink.com/ItemImage/PN/1/60295pb01.png",
+            "newThumb1Img": "//img.bricklink.com/ItemImage/PT/1/60295pb01.t1.png",
+            "newThumb2Img": "//img.bricklink.com/ItemImage/PT/1/60295pb01.t1.png",
+            "newItemImg": "//img.bricklink.com/ItemImage/PN/1/60295pb01.png",
+            "nativePrice": "PLN 13.3195",
+            "salePrice": "US $3.2199",
+            "invPrice": "US $3.7881",
+            "rawConvertedPrice": 3.2199,
+            "categoryString": "1253",
+            "invDate": "Feb 27, 2023"
+          },
+          {
+            "itemName": "Brick, Braille 2 x 4 with 4 Studs with Black Number Sign / Hash / Pound Sign Pattern (dots-3456 \u283C)",
+            "invDescription": "WITHOUT ANY PRINT!!! VERY UNIQUE!  Has minor scratches.",
+            "hasExtended": 0,
+            "invID": 340728992,
+            "invQty": 7,
+            "bulkQty": 1,
+            "superlotID": 0,
+            "superlotQty": 1,
+            "salePercent": 15,
+            "itemType": "P",
+            "invNew": "Used",
+            "invComplete": "",
+            "colorID": 1,
+            "colorName": "White",
+            "itemNo": "60295pb01",
+            "itemSeq": 0,
+            "itemID": 223310,
+            "itemStatus": "A",
+            "smallImg": "//img.bricklink.com/ItemImage/PT/1/60295pb01.t1.png",
+            "largeImg": "//img.bricklink.com/ItemImage/PN/1/60295pb01.png",
+            "newThumb1Img": "//img.bricklink.com/ItemImage/PT/1/60295pb01.t1.png",
+            "newThumb2Img": "//img.bricklink.com/ItemImage/PT/1/60295pb01.t1.png",
+            "newItemImg": "//img.bricklink.com/ItemImage/PN/1/60295pb01.png",
+            "nativePrice": "PLN 15.6655",
+            "salePrice": "US $3.787",
+            "invPrice": "US $4.4553",
+            "rawConvertedPrice": 3.787,
+            "categoryString": "1253",
+            "invDate": "Mar 18, 2023"
+          }
+        ],
+        "total": 14
+      }
+    ],
+    "categories": [
+      {
+        "categories": [],
+        "type": "S",
+        "title": "Sets",
+        "totalLotCnt": 0,
+        "foundLotCnt": 0,
+        "nonEmptyCategoryCnt": 0,
+        "nonEmptyColorCnt": 0
+      },
+      {
+        "categories": [
+          {
+            "id": 93,
+            "name": "Aircraft",
+            "totalLotCnt": 5,
+            "catstr": "93",
+            "depth": 0,
+            "foundLotCnt": 5
+          },
+          {
+            "id": 146,
+            "name": "Animal, Air",
+            "totalLotCnt": 1,
+            "catstr": "146",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 148,
+            "name": "Animal, Body Part",
+            "totalLotCnt": 17,
+            "catstr": "148",
+            "depth": 0,
+            "foundLotCnt": 17
+          },
+          {
+            "id": 1128,
+            "name": "Animal, Body Part, Decorated",
+            "totalLotCnt": 3,
+            "catstr": "1128",
+            "depth": 0,
+            "foundLotCnt": 3
+          },
+          {
+            "id": 184,
+            "name": "Animal, Dinosaur",
+            "totalLotCnt": 1,
+            "catstr": "184",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 147,
+            "name": "Animal, Land",
+            "totalLotCnt": 4,
+            "catstr": "147",
+            "depth": 0,
+            "foundLotCnt": 4
+          },
+          {
+            "id": 145,
+            "name": "Animal, Water",
+            "totalLotCnt": 1,
+            "catstr": "145",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 1,
+            "name": "Antenna",
+            "totalLotCnt": 2,
+            "catstr": "1",
+            "depth": 0,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 6,
+            "name": "Arch",
+            "totalLotCnt": 30,
+            "catstr": "6",
+            "depth": 0,
+            "foundLotCnt": 30
+          },
+          {
+            "id": 273,
+            "name": "BIONICLE",
+            "totalLotCnt": 1,
+            "catstr": "273",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 46,
+            "name": "Bar",
+            "totalLotCnt": 22,
+            "catstr": "46",
+            "depth": 0,
+            "foundLotCnt": 22
+          },
+          {
+            "id": 3,
+            "name": "Boat",
+            "totalLotCnt": 1,
+            "catstr": "3",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 4,
+            "name": "Bracket",
+            "totalLotCnt": 59,
+            "catstr": "4",
+            "depth": 0,
+            "foundLotCnt": 59
+          },
+          {
+            "id": 5,
+            "name": "Brick",
+            "totalLotCnt": 301,
+            "catstr": "5",
+            "depth": 0,
+            "foundLotCnt": 301
+          },
+          {
+            "id": 1253,
+            "name": "Brick, Braille",
+            "totalLotCnt": 14,
+            "catstr": "1253",
+            "depth": 0,
+            "foundLotCnt": 14
+          },
+          {
+            "id": 118,
+            "name": "Brick, Decorated",
+            "totalLotCnt": 10,
+            "catstr": "118",
+            "depth": 0,
+            "foundLotCnt": 10
+          },
+          {
+            "id": 7,
+            "name": "Brick, Modified",
+            "totalLotCnt": 87,
+            "catstr": "7",
+            "depth": 0,
+            "foundLotCnt": 87
+          },
+          {
+            "id": 8,
+            "name": "Brick, Round",
+            "totalLotCnt": 53,
+            "catstr": "8",
+            "depth": 0,
+            "foundLotCnt": 53
+          },
+          {
+            "id": 991,
+            "name": "Chain",
+            "totalLotCnt": 1,
+            "catstr": "991",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 162,
+            "name": "Cloth",
+            "totalLotCnt": 1,
+            "catstr": "162",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 479,
+            "name": "Cockpit",
+            "totalLotCnt": 1,
+            "catstr": "479",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 21,
+            "name": "Cone",
+            "totalLotCnt": 24,
+            "catstr": "21",
+            "depth": 0,
+            "foundLotCnt": 24
+          },
+          {
+            "id": 974,
+            "name": "Cone, Decorated",
+            "totalLotCnt": 2,
+            "catstr": "974",
+            "depth": 0,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 10,
+            "name": "Container",
+            "totalLotCnt": 35,
+            "catstr": "10",
+            "depth": 0,
+            "foundLotCnt": 35
+          },
+          {
+            "id": 74,
+            "name": "Crane",
+            "totalLotCnt": 1,
+            "catstr": "74",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 11,
+            "name": "Cylinder",
+            "totalLotCnt": 7,
+            "catstr": "11",
+            "depth": 0,
+            "foundLotCnt": 7
+          },
+          {
+            "id": 116,
+            "name": "Dish",
+            "totalLotCnt": 17,
+            "catstr": "116",
+            "depth": 0,
+            "foundLotCnt": 17
+          },
+          {
+            "id": 779,
+            "name": "Dish, Decorated",
+            "totalLotCnt": 3,
+            "catstr": "779",
+            "depth": 0,
+            "foundLotCnt": 3
+          },
+          {
+            "id": 12,
+            "name": "Door",
+            "totalLotCnt": 26,
+            "catstr": "12",
+            "depth": 0,
+            "foundLotCnt": 26
+          },
+          {
+            "id": 540,
+            "name": "Door, Frame",
+            "totalLotCnt": 19,
+            "catstr": "540",
+            "depth": 0,
+            "foundLotCnt": 19
+          },
+          {
+            "id": 123,
+            "name": "Electric, Light & Sound",
+            "totalLotCnt": 1,
+            "catstr": "123",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 13,
+            "name": "Fence",
+            "totalLotCnt": 4,
+            "catstr": "13",
+            "depth": 0,
+            "foundLotCnt": 4
+          },
+          {
+            "id": 76,
+            "name": "Flag",
+            "totalLotCnt": 4,
+            "catstr": "76",
+            "depth": 0,
+            "foundLotCnt": 4
+          },
+          {
+            "id": 738,
+            "name": "Flag, Decorated",
+            "totalLotCnt": 1,
+            "catstr": "738",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 175,
+            "name": "Food & Drink",
+            "totalLotCnt": 5,
+            "catstr": "175",
+            "depth": 0,
+            "foundLotCnt": 5
+          },
+          {
+            "id": 771,
+            "name": "Friends",
+            "totalLotCnt": 4,
+            "catstr": "771",
+            "depth": 0,
+            "foundLotCnt": 4
+          },
+          {
+            "id": 79,
+            "name": "Garage",
+            "totalLotCnt": 1,
+            "catstr": "79",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 22,
+            "name": "Hinge",
+            "totalLotCnt": 34,
+            "catstr": "22",
+            "depth": 0,
+            "foundLotCnt": 34
+          },
+          {
+            "id": 522,
+            "name": "Hose, Ribbed 7mm D.",
+            "totalLotCnt": 1,
+            "catstr": "522",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 528,
+            "name": "Hose, Rigid 3mm D.",
+            "totalLotCnt": 1,
+            "catstr": "528",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 527,
+            "name": "Hose, Soft Axle",
+            "totalLotCnt": 2,
+            "catstr": "527",
+            "depth": 0,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 1215,
+            "name": "Human Jewelry",
+            "totalLotCnt": 7,
+            "catstr": "1215",
+            "depth": 0,
+            "foundLotCnt": 7
+          },
+          {
+            "id": 990,
+            "name": "Human Tool",
+            "totalLotCnt": 2,
+            "catstr": "990",
+            "depth": 0,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 90,
+            "name": "Ladder",
+            "totalLotCnt": 2,
+            "catstr": "90",
+            "depth": 0,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 20,
+            "name": "Minifigure, Body Part",
+            "totalLotCnt": 8,
+            "catstr": "20",
+            "depth": 0,
+            "foundLotCnt": 8
+          },
+          {
+            "id": 142,
+            "name": "Minifigure, Body Wear",
+            "totalLotCnt": 8,
+            "catstr": "142",
+            "depth": 0,
+            "foundLotCnt": 8
+          },
+          {
+            "id": 847,
+            "name": "Minifigure, Hair",
+            "totalLotCnt": 2,
+            "catstr": "847",
+            "depth": 0,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 238,
+            "name": "Minifigure, Head",
+            "totalLotCnt": 3,
+            "catstr": "238",
+            "depth": 0,
+            "foundLotCnt": 3
+          },
+          {
+            "id": 16,
+            "name": "Minifigure, Headgear",
+            "totalLotCnt": 7,
+            "catstr": "16",
+            "depth": 0,
+            "foundLotCnt": 7
+          },
+          {
+            "id": 636,
+            "name": "Minifigure, Headgear Accessory",
+            "totalLotCnt": 5,
+            "catstr": "636",
+            "depth": 0,
+            "foundLotCnt": 5
+          },
+          {
+            "id": 1116,
+            "name": "Minifigure, Legs, Modified",
+            "totalLotCnt": 1,
+            "catstr": "1116",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 485,
+            "name": "Minifigure, Torso Assembly",
+            "totalLotCnt": 1,
+            "catstr": "485",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 1097,
+            "name": "Minifigure, Torso Assembly, Decor.",
+            "totalLotCnt": 244,
+            "catstr": "1097",
+            "depth": 0,
+            "foundLotCnt": 244
+          },
+          {
+            "id": 18,
+            "name": "Minifigure, Utensil",
+            "totalLotCnt": 82,
+            "catstr": "18",
+            "depth": 0,
+            "foundLotCnt": 82
+          },
+          {
+            "id": 19,
+            "name": "Minifigure, Weapon",
+            "totalLotCnt": 10,
+            "catstr": "19",
+            "depth": 0,
+            "foundLotCnt": 10
+          },
+          {
+            "id": 504,
+            "name": "Motor, Non-Electric",
+            "totalLotCnt": 1,
+            "catstr": "504",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 91,
+            "name": "Panel",
+            "totalLotCnt": 30,
+            "catstr": "91",
+            "depth": 0,
+            "foundLotCnt": 30
+          },
+          {
+            "id": 461,
+            "name": "Panel, Decorated",
+            "totalLotCnt": 3,
+            "catstr": "461",
+            "depth": 0,
+            "foundLotCnt": 3
+          },
+          {
+            "id": 25,
+            "name": "Plant",
+            "totalLotCnt": 13,
+            "catstr": "25",
+            "depth": 0,
+            "foundLotCnt": 13
+          },
+          {
+            "id": 95,
+            "name": "Plant, Tree",
+            "totalLotCnt": 3,
+            "catstr": "95",
+            "depth": 0,
+            "foundLotCnt": 3
+          },
+          {
+            "id": 161,
+            "name": "Plastic",
+            "totalLotCnt": 1,
+            "catstr": "161",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 26,
+            "name": "Plate",
+            "totalLotCnt": 436,
+            "catstr": "26",
+            "depth": 0,
+            "foundLotCnt": 436
+          },
+          {
+            "id": 885,
+            "name": "Plate, Decorated",
+            "totalLotCnt": 1,
+            "catstr": "885",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 27,
+            "name": "Plate, Modified",
+            "totalLotCnt": 165,
+            "catstr": "27",
+            "depth": 0,
+            "foundLotCnt": 165
+          },
+          {
+            "id": 28,
+            "name": "Plate, Round",
+            "totalLotCnt": 163,
+            "catstr": "28",
+            "depth": 0,
+            "foundLotCnt": 163
+          },
+          {
+            "id": 1090,
+            "name": "Plate, Round, Decorated",
+            "totalLotCnt": 1,
+            "catstr": "1090",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 159,
+            "name": "Pneumatic",
+            "totalLotCnt": 3,
+            "catstr": "159",
+            "depth": 0,
+            "foundLotCnt": 3
+          },
+          {
+            "id": 992,
+            "name": "Projectile Launcher",
+            "totalLotCnt": 7,
+            "catstr": "992",
+            "depth": 0,
+            "foundLotCnt": 7
+          },
+          {
+            "id": 30,
+            "name": "Propeller",
+            "totalLotCnt": 3,
+            "catstr": "30",
+            "depth": 0,
+            "foundLotCnt": 3
+          },
+          {
+            "id": 225,
+            "name": "Riding Cycle",
+            "totalLotCnt": 14,
+            "catstr": "225",
+            "depth": 0,
+            "foundLotCnt": 14
+          },
+          {
+            "id": 99,
+            "name": "Rock",
+            "totalLotCnt": 1,
+            "catstr": "99",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 229,
+            "name": "Rubber Band & Belt",
+            "totalLotCnt": 2,
+            "catstr": "229",
+            "depth": 0,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 999,
+            "name": "Slide",
+            "totalLotCnt": 2,
+            "catstr": "999",
+            "depth": 0,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 31,
+            "name": "Slope",
+            "totalLotCnt": 67,
+            "catstr": "31",
+            "depth": 0,
+            "foundLotCnt": 67
+          },
+          {
+            "id": 438,
+            "name": "Slope, Curved",
+            "totalLotCnt": 111,
+            "catstr": "438",
+            "depth": 0,
+            "foundLotCnt": 111
+          },
+          {
+            "id": 775,
+            "name": "Slope, Curved, Decorated",
+            "totalLotCnt": 8,
+            "catstr": "775",
+            "depth": 0,
+            "foundLotCnt": 8
+          },
+          {
+            "id": 33,
+            "name": "Slope, Decorated",
+            "totalLotCnt": 4,
+            "catstr": "33",
+            "depth": 0,
+            "foundLotCnt": 4
+          },
+          {
+            "id": 32,
+            "name": "Slope, Inverted",
+            "totalLotCnt": 17,
+            "catstr": "32",
+            "depth": 0,
+            "foundLotCnt": 17
+          },
+          {
+            "id": 103,
+            "name": "Stairs",
+            "totalLotCnt": 1,
+            "catstr": "103",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 160,
+            "name": "Sticker Sheet",
+            "totalLotCnt": 22,
+            "catstr": "160",
+            "depth": 0,
+            "foundLotCnt": 22
+          },
+          {
+            "id": 231,
+            "name": "String & Net",
+            "totalLotCnt": 2,
+            "catstr": "231",
+            "depth": 0,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 105,
+            "name": "Support",
+            "totalLotCnt": 3,
+            "catstr": "105",
+            "depth": 0,
+            "foundLotCnt": 3
+          },
+          {
+            "id": 741,
+            "name": "Tail, Decorated",
+            "totalLotCnt": 1,
+            "catstr": "741",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 107,
+            "name": "Tap",
+            "totalLotCnt": 3,
+            "catstr": "107",
+            "depth": 0,
+            "foundLotCnt": 3
+          },
+          {
+            "id": 36,
+            "name": "Technic",
+            "totalLotCnt": 59,
+            "catstr": "36",
+            "depth": 0,
+            "foundLotCnt": 59
+          },
+          {
+            "id": 134,
+            "name": "Technic, Axle",
+            "totalLotCnt": 50,
+            "catstr": "134",
+            "depth": 0,
+            "foundLotCnt": 50
+          },
+          {
+            "id": 135,
+            "name": "Technic, Brick",
+            "totalLotCnt": 101,
+            "catstr": "135",
+            "depth": 0,
+            "foundLotCnt": 101
+          },
+          {
+            "id": 133,
+            "name": "Technic, Connector",
+            "totalLotCnt": 91,
+            "catstr": "133",
+            "depth": 0,
+            "foundLotCnt": 91
+          },
+          {
+            "id": 638,
+            "name": "Technic, Disk",
+            "totalLotCnt": 1,
+            "catstr": "638",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 136,
+            "name": "Technic, Gear",
+            "totalLotCnt": 34,
+            "catstr": "136",
+            "depth": 0,
+            "foundLotCnt": 34
+          },
+          {
+            "id": 137,
+            "name": "Technic, Liftarm",
+            "totalLotCnt": 280,
+            "catstr": "137",
+            "depth": 0,
+            "foundLotCnt": 280
+          },
+          {
+            "id": 154,
+            "name": "Technic, Panel",
+            "totalLotCnt": 74,
+            "catstr": "154",
+            "depth": 0,
+            "foundLotCnt": 74
+          },
+          {
+            "id": 740,
+            "name": "Technic, Panel, Decorated",
+            "totalLotCnt": 2,
+            "catstr": "740",
+            "depth": 0,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 139,
+            "name": "Technic, Pin",
+            "totalLotCnt": 20,
+            "catstr": "139",
+            "depth": 0,
+            "foundLotCnt": 20
+          },
+          {
+            "id": 140,
+            "name": "Technic, Plate",
+            "totalLotCnt": 3,
+            "catstr": "140",
+            "depth": 0,
+            "foundLotCnt": 3
+          },
+          {
+            "id": 542,
+            "name": "Technic, Shock Absorber",
+            "totalLotCnt": 4,
+            "catstr": "542",
+            "depth": 0,
+            "foundLotCnt": 4
+          },
+          {
+            "id": 141,
+            "name": "Technic, Steering",
+            "totalLotCnt": 13,
+            "catstr": "141",
+            "depth": 0,
+            "foundLotCnt": 13
+          },
+          {
+            "id": 37,
+            "name": "Tile",
+            "totalLotCnt": 75,
+            "catstr": "37",
+            "depth": 0,
+            "foundLotCnt": 75
+          },
+          {
+            "id": 39,
+            "name": "Tile, Decorated",
+            "totalLotCnt": 79,
+            "catstr": "39",
+            "depth": 0,
+            "foundLotCnt": 79
+          },
+          {
+            "id": 38,
+            "name": "Tile, Modified",
+            "totalLotCnt": 55,
+            "catstr": "38",
+            "depth": 0,
+            "foundLotCnt": 55
+          },
+          {
+            "id": 778,
+            "name": "Tile, Modified, Decorated",
+            "totalLotCnt": 3,
+            "catstr": "778",
+            "depth": 0,
+            "foundLotCnt": 3
+          },
+          {
+            "id": 117,
+            "name": "Tile, Round",
+            "totalLotCnt": 119,
+            "catstr": "117",
+            "depth": 0,
+            "foundLotCnt": 119
+          },
+          {
+            "id": 812,
+            "name": "Tile, Round, Decorated",
+            "totalLotCnt": 19,
+            "catstr": "812",
+            "depth": 0,
+            "foundLotCnt": 19
+          },
+          {
+            "id": 128,
+            "name": "Train, Track",
+            "totalLotCnt": 7,
+            "catstr": "128",
+            "depth": 0,
+            "foundLotCnt": 7
+          },
+          {
+            "id": 40,
+            "name": "Turntable",
+            "totalLotCnt": 5,
+            "catstr": "40",
+            "depth": 0,
+            "foundLotCnt": 5
+          },
+          {
+            "id": 72,
+            "name": "Vehicle",
+            "totalLotCnt": 12,
+            "catstr": "72",
+            "depth": 0,
+            "foundLotCnt": 12
+          },
+          {
+            "id": 131,
+            "name": "Vehicle, Base",
+            "totalLotCnt": 4,
+            "catstr": "131",
+            "depth": 0,
+            "foundLotCnt": 4
+          },
+          {
+            "id": 77,
+            "name": "Vehicle, Mudguard",
+            "totalLotCnt": 24,
+            "catstr": "77",
+            "depth": 0,
+            "foundLotCnt": 24
+          },
+          {
+            "id": 42,
+            "name": "Wedge",
+            "totalLotCnt": 47,
+            "catstr": "42",
+            "depth": 0,
+            "foundLotCnt": 47
+          },
+          {
+            "id": 578,
+            "name": "Wedge, Decorated",
+            "totalLotCnt": 1,
+            "catstr": "578",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 583,
+            "name": "Wedge, Plate",
+            "totalLotCnt": 172,
+            "catstr": "583",
+            "depth": 0,
+            "foundLotCnt": 172
+          },
+          {
+            "id": 43,
+            "name": "Wheel",
+            "totalLotCnt": 38,
+            "catstr": "43",
+            "depth": 0,
+            "foundLotCnt": 38
+          },
+          {
+            "id": 111,
+            "name": "Wheel, Tire & Tread",
+            "totalLotCnt": 36,
+            "catstr": "111",
+            "depth": 0,
+            "foundLotCnt": 36
+          },
+          {
+            "id": 113,
+            "name": "Window",
+            "totalLotCnt": 35,
+            "catstr": "113",
+            "depth": 0,
+            "foundLotCnt": 35
+          },
+          {
+            "id": 81,
+            "name": "Window, Glass & Shutter",
+            "totalLotCnt": 19,
+            "catstr": "81",
+            "depth": 0,
+            "foundLotCnt": 19
+          },
+          {
+            "id": 115,
+            "name": "Windscreen",
+            "totalLotCnt": 43,
+            "catstr": "115",
+            "depth": 0,
+            "foundLotCnt": 43
+          },
+          {
+            "id": 579,
+            "name": "Windscreen, Decorated",
+            "totalLotCnt": 7,
+            "catstr": "579",
+            "depth": 0,
+            "foundLotCnt": 7
+          }
+        ],
+        "colors": [
+          {
+            "id": 0,
+            "name": "(Not Applicable)",
+            "totalLotCnt": 23,
+            "foundLotCnt": 23
+          },
+          { "id": 11, "name": "Black", "totalLotCnt": 482, "foundLotCnt": 482 },
+          { "id": 7, "name": "Blue", "totalLotCnt": 150, "foundLotCnt": 150 },
+          {
+            "id": 36,
+            "name": "Bright Green",
+            "totalLotCnt": 28,
+            "foundLotCnt": 28
+          },
+          {
+            "id": 105,
+            "name": "Bright Light Blue",
+            "totalLotCnt": 12,
+            "foundLotCnt": 12
+          },
+          {
+            "id": 110,
+            "name": "Bright Light Orange",
+            "totalLotCnt": 58,
+            "foundLotCnt": 58
+          },
+          {
+            "id": 103,
+            "name": "Bright Light Yellow",
+            "totalLotCnt": 34,
+            "foundLotCnt": 34
+          },
+          {
+            "id": 104,
+            "name": "Bright Pink",
+            "totalLotCnt": 38,
+            "foundLotCnt": 38
+          },
+          { "id": 220, "name": "Coral", "totalLotCnt": 21, "foundLotCnt": 21 },
+          {
+            "id": 153,
+            "name": "Dark Azure",
+            "totalLotCnt": 65,
+            "foundLotCnt": 65
+          },
+          {
+            "id": 63,
+            "name": "Dark Blue",
+            "totalLotCnt": 75,
+            "foundLotCnt": 75
+          },
+          {
+            "id": 85,
+            "name": "Dark Bluish Gray",
+            "totalLotCnt": 244,
+            "foundLotCnt": 244
+          },
+          {
+            "id": 120,
+            "name": "Dark Brown",
+            "totalLotCnt": 20,
+            "foundLotCnt": 20
+          },
+          { "id": 10, "name": "Dark Gray", "totalLotCnt": 1, "foundLotCnt": 1 },
+          {
+            "id": 80,
+            "name": "Dark Green",
+            "totalLotCnt": 23,
+            "foundLotCnt": 23
+          },
+          {
+            "id": 68,
+            "name": "Dark Orange",
+            "totalLotCnt": 31,
+            "foundLotCnt": 31
+          },
+          {
+            "id": 47,
+            "name": "Dark Pink",
+            "totalLotCnt": 43,
+            "foundLotCnt": 43
+          },
+          {
+            "id": 89,
+            "name": "Dark Purple",
+            "totalLotCnt": 45,
+            "foundLotCnt": 45
+          },
+          {
+            "id": 59,
+            "name": "Dark Red",
+            "totalLotCnt": 90,
+            "foundLotCnt": 90
+          },
+          {
+            "id": 69,
+            "name": "Dark Tan",
+            "totalLotCnt": 57,
+            "foundLotCnt": 57
+          },
+          {
+            "id": 39,
+            "name": "Dark Turquoise",
+            "totalLotCnt": 88,
+            "foundLotCnt": 88
+          },
+          {
+            "id": 95,
+            "name": "Flat Silver",
+            "totalLotCnt": 26,
+            "foundLotCnt": 26
+          },
+          {
+            "id": 102,
+            "name": "Glitter Trans-Purple",
+            "totalLotCnt": 1,
+            "foundLotCnt": 1
+          },
+          { "id": 6, "name": "Green", "totalLotCnt": 59, "foundLotCnt": 59 },
+          {
+            "id": 154,
+            "name": "Lavender",
+            "totalLotCnt": 13,
+            "foundLotCnt": 13
+          },
+          {
+            "id": 152,
+            "name": "Light Aqua",
+            "totalLotCnt": 15,
+            "foundLotCnt": 15
+          },
+          {
+            "id": 86,
+            "name": "Light Bluish Gray",
+            "totalLotCnt": 299,
+            "foundLotCnt": 299
+          },
+          {
+            "id": 9,
+            "name": "Light Gray",
+            "totalLotCnt": 12,
+            "foundLotCnt": 12
+          },
+          {
+            "id": 90,
+            "name": "Light Nougat",
+            "totalLotCnt": 1,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 44,
+            "name": "Light Violet",
+            "totalLotCnt": 1,
+            "foundLotCnt": 1
+          },
+          { "id": 34, "name": "Lime", "totalLotCnt": 105, "foundLotCnt": 105 },
+          { "id": 71, "name": "Magenta", "totalLotCnt": 51, "foundLotCnt": 51 },
+          {
+            "id": 156,
+            "name": "Medium Azure",
+            "totalLotCnt": 45,
+            "foundLotCnt": 45
+          },
+          {
+            "id": 42,
+            "name": "Medium Blue",
+            "totalLotCnt": 25,
+            "foundLotCnt": 25
+          },
+          {
+            "id": 157,
+            "name": "Medium Lavender",
+            "totalLotCnt": 36,
+            "foundLotCnt": 36
+          },
+          {
+            "id": 150,
+            "name": "Medium Nougat",
+            "totalLotCnt": 39,
+            "foundLotCnt": 39
+          },
+          {
+            "id": 65,
+            "name": "Metallic Gold",
+            "totalLotCnt": 2,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 67,
+            "name": "Metallic Silver",
+            "totalLotCnt": 4,
+            "foundLotCnt": 4
+          },
+          {
+            "id": 236,
+            "name": "Neon Yellow",
+            "totalLotCnt": 8,
+            "foundLotCnt": 8
+          },
+          { "id": 28, "name": "Nougat", "totalLotCnt": 5, "foundLotCnt": 5 },
+          {
+            "id": 155,
+            "name": "Olive Green",
+            "totalLotCnt": 24,
+            "foundLotCnt": 24
+          },
+          { "id": 4, "name": "Orange", "totalLotCnt": 142, "foundLotCnt": 142 },
+          {
+            "id": 77,
+            "name": "Pearl Dark Gray",
+            "totalLotCnt": 21,
+            "foundLotCnt": 21
+          },
+          {
+            "id": 115,
+            "name": "Pearl Gold",
+            "totalLotCnt": 48,
+            "foundLotCnt": 48
+          },
+          {
+            "id": 66,
+            "name": "Pearl Light Gray",
+            "totalLotCnt": 1,
+            "foundLotCnt": 1
+          },
+          { "id": 24, "name": "Purple", "totalLotCnt": 3, "foundLotCnt": 3 },
+          { "id": 5, "name": "Red", "totalLotCnt": 236, "foundLotCnt": 236 },
+          {
+            "id": 88,
+            "name": "Reddish Brown",
+            "totalLotCnt": 83,
+            "foundLotCnt": 83
+          },
+          {
+            "id": 55,
+            "name": "Sand Blue",
+            "totalLotCnt": 29,
+            "foundLotCnt": 29
+          },
+          {
+            "id": 48,
+            "name": "Sand Green",
+            "totalLotCnt": 25,
+            "foundLotCnt": 25
+          },
+          {
+            "id": 54,
+            "name": "Sand Purple",
+            "totalLotCnt": 1,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 228,
+            "name": "Satin Trans-Clear",
+            "totalLotCnt": 1,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 232,
+            "name": "Satin Trans-Dark Blue",
+            "totalLotCnt": 1,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 223,
+            "name": "Satin Trans-Light Blue",
+            "totalLotCnt": 2,
+            "foundLotCnt": 2
+          },
+          { "id": 2, "name": "Tan", "totalLotCnt": 123, "foundLotCnt": 123 },
+          {
+            "id": 108,
+            "name": "Trans-Bright Green",
+            "totalLotCnt": 2,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 13,
+            "name": "Trans-Brown (Old Trans-Black)",
+            "totalLotCnt": 26,
+            "foundLotCnt": 26
+          },
+          {
+            "id": 12,
+            "name": "Trans-Clear",
+            "totalLotCnt": 46,
+            "foundLotCnt": 46
+          },
+          {
+            "id": 14,
+            "name": "Trans-Dark Blue",
+            "totalLotCnt": 4,
+            "foundLotCnt": 4
+          },
+          {
+            "id": 50,
+            "name": "Trans-Dark Pink",
+            "totalLotCnt": 6,
+            "foundLotCnt": 6
+          },
+          {
+            "id": 20,
+            "name": "Trans-Green",
+            "totalLotCnt": 2,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 15,
+            "name": "Trans-Light Blue",
+            "totalLotCnt": 44,
+            "foundLotCnt": 44
+          },
+          {
+            "id": 74,
+            "name": "Trans-Medium Blue",
+            "totalLotCnt": 2,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 16,
+            "name": "Trans-Neon Green",
+            "totalLotCnt": 1,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 18,
+            "name": "Trans-Neon Orange",
+            "totalLotCnt": 2,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 98,
+            "name": "Trans-Orange",
+            "totalLotCnt": 10,
+            "foundLotCnt": 10
+          },
+          {
+            "id": 51,
+            "name": "Trans-Purple",
+            "totalLotCnt": 9,
+            "foundLotCnt": 9
+          },
+          { "id": 17, "name": "Trans-Red", "totalLotCnt": 7, "foundLotCnt": 7 },
+          {
+            "id": 19,
+            "name": "Trans-Yellow",
+            "totalLotCnt": 6,
+            "foundLotCnt": 6
+          },
+          { "id": 1, "name": "White", "totalLotCnt": 358, "foundLotCnt": 358 },
+          { "id": 3, "name": "Yellow", "totalLotCnt": 160, "foundLotCnt": 160 },
+          {
+            "id": 158,
+            "name": "Yellowish Green",
+            "totalLotCnt": 9,
+            "foundLotCnt": 9
+          }
+        ],
+        "type": "P",
+        "title": "Parts",
+        "totalLotCnt": 3809,
+        "foundLotCnt": 3809,
+        "nonEmptyCategoryCnt": 117,
+        "nonEmptyColorCnt": 72
+      },
+      {
+        "categories": [
+          {
+            "id": 746,
+            "name": "Collectible Minifigures",
+            "totalLotCnt": 1,
+            "catstr": "746",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 878,
+            "name": "Disney",
+            "totalLotCnt": 1,
+            "catstr": "746.878",
+            "depth": 1,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 1170,
+            "name": "Disney Series 1",
+            "totalLotCnt": 1,
+            "catstr": "746.878.1170",
+            "depth": 2,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 771,
+            "name": "Friends",
+            "totalLotCnt": 1,
+            "catstr": "771",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 390,
+            "name": "Holiday & Event",
+            "totalLotCnt": 15,
+            "catstr": "390",
+            "depth": 0,
+            "foundLotCnt": 15
+          },
+          {
+            "id": 955,
+            "name": "Chinese New Year",
+            "totalLotCnt": 11,
+            "catstr": "390.955",
+            "depth": 1,
+            "foundLotCnt": 11
+          },
+          {
+            "id": 759,
+            "name": "NINJAGO",
+            "totalLotCnt": 1,
+            "catstr": "759",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 1013,
+            "name": "Legacy",
+            "totalLotCnt": 1,
+            "catstr": "759.1013",
+            "depth": 1,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 1163,
+            "name": "Queer Eye",
+            "totalLotCnt": 3,
+            "catstr": "1163",
+            "depth": 0,
+            "foundLotCnt": 3
+          },
+          {
+            "id": 842,
+            "name": "SPEED CHAMPIONS",
+            "totalLotCnt": 1,
+            "catstr": "842",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 971,
+            "name": "The LEGO Movie 2",
+            "totalLotCnt": 2,
+            "catstr": "971",
+            "depth": 0,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 67,
+            "name": "Town",
+            "totalLotCnt": 34,
+            "catstr": "67",
+            "depth": 0,
+            "foundLotCnt": 34
+          },
+          {
+            "id": 518,
+            "name": "City",
+            "totalLotCnt": 28,
+            "catstr": "67.518",
+            "depth": 1,
+            "foundLotCnt": 28
+          },
+          {
+            "id": 685,
+            "name": "Farm",
+            "totalLotCnt": 3,
+            "catstr": "67.518.685",
+            "depth": 2,
+            "foundLotCnt": 3
+          },
+          {
+            "id": 319,
+            "name": "Fire",
+            "totalLotCnt": 4,
+            "catstr": "67.518.319",
+            "depth": 2,
+            "foundLotCnt": 4
+          },
+          {
+            "id": 323,
+            "name": "Police",
+            "totalLotCnt": 2,
+            "catstr": "67.518.323",
+            "depth": 2,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 686,
+            "name": "Recreation",
+            "totalLotCnt": 9,
+            "catstr": "67.518.686",
+            "depth": 2,
+            "foundLotCnt": 9
+          },
+          {
+            "id": 330,
+            "name": "Space Port",
+            "totalLotCnt": 2,
+            "catstr": "67.518.330",
+            "depth": 2,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 1125,
+            "name": "Vidiyo",
+            "totalLotCnt": 1,
+            "catstr": "1125",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 1142,
+            "name": "BeatBox",
+            "totalLotCnt": 1,
+            "catstr": "1125.1142",
+            "depth": 1,
+            "foundLotCnt": 1
+          }
+        ],
+        "type": "M",
+        "title": "Minifigures",
+        "totalLotCnt": 59,
+        "foundLotCnt": 59,
+        "nonEmptyCategoryCnt": 20,
+        "nonEmptyColorCnt": 0
+      },
+      {
+        "categories": [],
+        "type": "B",
+        "title": "Books",
+        "totalLotCnt": 0,
+        "foundLotCnt": 0,
+        "nonEmptyCategoryCnt": 0,
+        "nonEmptyColorCnt": 0
+      },
+      {
+        "categories": [
+          {
+            "id": 1006,
+            "name": "Envelope & Letter",
+            "totalLotCnt": 1,
+            "catstr": "1006",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 390,
+            "name": "Holiday & Event",
+            "totalLotCnt": 1,
+            "catstr": "1006.390",
+            "depth": 1,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 955,
+            "name": "Chinese New Year",
+            "totalLotCnt": 1,
+            "catstr": "1006.390.955",
+            "depth": 2,
+            "foundLotCnt": 1
+          }
+        ],
+        "type": "G",
+        "title": "Gear",
+        "totalLotCnt": 1,
+        "foundLotCnt": 1,
+        "nonEmptyCategoryCnt": 3,
+        "nonEmptyColorCnt": 0
+      },
+      {
+        "categories": [],
+        "type": "C",
+        "title": "Catalogs",
+        "totalLotCnt": 0,
+        "foundLotCnt": 0,
+        "nonEmptyCategoryCnt": 0,
+        "nonEmptyColorCnt": 0
+      },
+      {
+        "categories": [
+          {
+            "id": 423,
+            "name": "Classic",
+            "totalLotCnt": 1,
+            "catstr": "423",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 171,
+            "name": "Creator",
+            "totalLotCnt": 4,
+            "catstr": "171",
+            "depth": 0,
+            "foundLotCnt": 4
+          },
+          {
+            "id": 680,
+            "name": "Basic Model",
+            "totalLotCnt": 1,
+            "catstr": "171.680",
+            "depth": 1,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 390,
+            "name": "Holiday & Event",
+            "totalLotCnt": 1,
+            "catstr": "171.680.390",
+            "depth": 2,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 392,
+            "name": "Easter",
+            "totalLotCnt": 1,
+            "catstr": "171.680.390.392",
+            "depth": 3,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 1068,
+            "name": "Creator Expert",
+            "totalLotCnt": 2,
+            "catstr": "171.1068",
+            "depth": 1,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 710,
+            "name": "Modular Buildings Collection",
+            "totalLotCnt": 1,
+            "catstr": "171.1068.710",
+            "depth": 2,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 599,
+            "name": "Traffic",
+            "totalLotCnt": 1,
+            "catstr": "171.1068.599",
+            "depth": 2,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 682,
+            "name": "Model",
+            "totalLotCnt": 1,
+            "catstr": "171.682",
+            "depth": 1,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 599,
+            "name": "Traffic",
+            "totalLotCnt": 1,
+            "catstr": "171.682.599",
+            "depth": 2,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 227,
+            "name": "Harry Potter",
+            "totalLotCnt": 1,
+            "catstr": "227",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 695,
+            "name": "Sorcerer's Stone",
+            "totalLotCnt": 1,
+            "catstr": "227.695",
+            "depth": 1,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 390,
+            "name": "Holiday & Event",
+            "totalLotCnt": 4,
+            "catstr": "390",
+            "depth": 0,
+            "foundLotCnt": 4
+          },
+          {
+            "id": 955,
+            "name": "Chinese New Year",
+            "totalLotCnt": 2,
+            "catstr": "390.955",
+            "depth": 1,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 850,
+            "name": "Jurassic World",
+            "totalLotCnt": 1,
+            "catstr": "850",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 976,
+            "name": "LEGO Brand",
+            "totalLotCnt": 1,
+            "catstr": "976",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 625,
+            "name": "LEGO Brand Store",
+            "totalLotCnt": 1,
+            "catstr": "976.625",
+            "depth": 1,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 682,
+            "name": "Model",
+            "totalLotCnt": 1,
+            "catstr": "976.625.682",
+            "depth": 2,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 817,
+            "name": "LEGO Ideas (CUUSOO)",
+            "totalLotCnt": 2,
+            "catstr": "817",
+            "depth": 0,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 61,
+            "name": "Pirates",
+            "totalLotCnt": 1,
+            "catstr": "817.61",
+            "depth": 1,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 808,
+            "name": "MIXELS",
+            "totalLotCnt": 1,
+            "catstr": "808",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 882,
+            "name": "MIXELS Series 8",
+            "totalLotCnt": 1,
+            "catstr": "808.882",
+            "depth": 1,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 759,
+            "name": "NINJAGO",
+            "totalLotCnt": 1,
+            "catstr": "759",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 950,
+            "name": "Skybound",
+            "totalLotCnt": 1,
+            "catstr": "759.950",
+            "depth": 1,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 65,
+            "name": "Star Wars",
+            "totalLotCnt": 4,
+            "catstr": "65",
+            "depth": 0,
+            "foundLotCnt": 4
+          },
+          {
+            "id": 859,
+            "name": "Buildable Figures",
+            "totalLotCnt": 1,
+            "catstr": "65.859",
+            "depth": 1,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 635,
+            "name": "Star Wars The Clone Wars",
+            "totalLotCnt": 1,
+            "catstr": "65.859.635",
+            "depth": 2,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 257,
+            "name": "Star Wars Episode 1",
+            "totalLotCnt": 1,
+            "catstr": "65.257",
+            "depth": 1,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 858,
+            "name": "Star Wars Episode 7",
+            "totalLotCnt": 1,
+            "catstr": "65.858",
+            "depth": 1,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 635,
+            "name": "Star Wars The Clone Wars",
+            "totalLotCnt": 1,
+            "catstr": "65.635",
+            "depth": 1,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 36,
+            "name": "Technic",
+            "totalLotCnt": 3,
+            "catstr": "36",
+            "depth": 0,
+            "foundLotCnt": 3
+          },
+          {
+            "id": 682,
+            "name": "Model",
+            "totalLotCnt": 3,
+            "catstr": "36.682",
+            "depth": 1,
+            "foundLotCnt": 3
+          },
+          {
+            "id": 596,
+            "name": "Construction",
+            "totalLotCnt": 2,
+            "catstr": "36.682.596",
+            "depth": 2,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 383,
+            "name": "Off-Road",
+            "totalLotCnt": 1,
+            "catstr": "36.682.383",
+            "depth": 2,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 971,
+            "name": "The LEGO Movie 2",
+            "totalLotCnt": 2,
+            "catstr": "971",
+            "depth": 0,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 67,
+            "name": "Town",
+            "totalLotCnt": 4,
+            "catstr": "67",
+            "depth": 0,
+            "foundLotCnt": 4
+          },
+          {
+            "id": 518,
+            "name": "City",
+            "totalLotCnt": 4,
+            "catstr": "67.518",
+            "depth": 1,
+            "foundLotCnt": 4
+          },
+          {
+            "id": 383,
+            "name": "Off-Road",
+            "totalLotCnt": 1,
+            "catstr": "67.518.383",
+            "depth": 2,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 323,
+            "name": "Police",
+            "totalLotCnt": 2,
+            "catstr": "67.518.323",
+            "depth": 2,
+            "foundLotCnt": 2
+          },
+          {
+            "id": 686,
+            "name": "Recreation",
+            "totalLotCnt": 1,
+            "catstr": "67.518.686",
+            "depth": 2,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 124,
+            "name": "Train",
+            "totalLotCnt": 1,
+            "catstr": "124",
+            "depth": 0,
+            "foundLotCnt": 1
+          },
+          {
+            "id": 577,
+            "name": "RC Train",
+            "totalLotCnt": 1,
+            "catstr": "124.577",
+            "depth": 1,
+            "foundLotCnt": 1
+          }
+        ],
+        "type": "I",
+        "title": "Instructions",
+        "totalLotCnt": 30,
+        "foundLotCnt": 30,
+        "nonEmptyCategoryCnt": 42,
+        "nonEmptyColorCnt": 0
+      },
+      {
+        "categories": [],
+        "type": "O",
+        "title": "Original Boxes",
+        "totalLotCnt": 0,
+        "foundLotCnt": 0,
+        "nonEmptyCategoryCnt": 0,
+        "nonEmptyColorCnt": 0
+      },
+      {
+        "categories": [],
+        "type": "CUSTOM",
+        "title": "Custom Items",
+        "totalLotCnt": 0,
+        "foundLotCnt": 0,
+        "nonEmptyCategoryCnt": 0,
+        "nonEmptyColorCnt": 0
+      },
+      {
+        "type": "SUPER",
+        "title": "Super Lots",
+        "totalLotCnt": 0,
+        "foundLotCnt": 0
+      },
+      {
+        "categories": [],
+        "type": "U",
+        "title": "Unsorted Lots",
+        "totalLotCnt": 0,
+        "foundLotCnt": 0,
+        "nonEmptyCategoryCnt": 0,
+        "nonEmptyColorCnt": 0
+      }
+    ],
+    "totalLotCnt": 3899,
+    "foundLotCnt": 3899,
+    "indicators": [],
+    "userCurrencySign": "US $",
+    "sellerCurrencySign": "PLN",
+    "currencyConvRate": 4.13662009789999984832320478744804859161376953125,
+    "query": {
+      "sid": "391787",
+      "q": null,
+      "sort": "0",
+      "desc": null,
+      "pg": null,
+      "pgSize": "100",
+      "itemType": "P",
+      "itemTypeFilter": null,
+      "itemID": null,
+      "catID": "1253",
+      "catIDFilter": null,
+      "itemYear": null,
+      "colorID": null,
+      "colorIDFilter": null,
+      "wantedMoreID": null,
+      "wantedMoreArrayID": null,
+      "wantedIDArray": null,
+      "resUserID": null,
+      "wantedIgnore": null,
+      "invID": null,
+      "invDate": null,
+      "bindID": null,
+      "Qmin": null,
+      "Qmax": null,
+      "Pmin": null,
+      "Pmax": null,
+      "setNo": null,
+      "breakType": null,
+      "bOnSale": null,
+      "bOnWantedList": null,
+      "bOnlyCustomItems": null,
+      "bExcludeSuperLot": null,
+      "bExcludeBulk": null,
+      "bExcludeTiered": null,
+      "bIncludeVAT": null,
+      "showTypePreview": null,
+      "showHomeItems": "0",
+      "bHideHaveMore": null,
+      "itemStatus": null,
+      "bindType": null,
+      "invNew": null,
+      "bExcludeNew": 0,
+      "bExcludeUsed": 0,
+      "bExcludeSealed": null,
+      "bExcludeComplete": null,
+      "bExcludeIncomplete": null,
+      "itemNo": "",
+      "showNewest": null
+    }
+  },
+  "returnCode": 0,
+  "returnMessage": "OK",
+  "errorTicket": 0,
+  "procssingTime": 109,
+  "strRefNo": "20230517-74937315e013"
+}
